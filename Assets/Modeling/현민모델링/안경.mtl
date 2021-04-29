@@ -1,0 +1,16 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 29.12.2016 19:02:32
+
+newmtl brainy
+	Ns 96.0784
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6400 0.6400 0.6400
+	Ks 0.1000 0.1000 0.1000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka E:\Çö¹Î\ClayArt(Deformation)-¿ä°í\Assets\¸ðµ¨¸µ\3D¸ðµ¨¸µ\½º¸ÓÇÁ\xir1w7wbwlxc-Brainy\Brainy\Brainy_D.tga
+	map_Kd E:\Çö¹Î\ClayArt(Deformation)-¿ä°í\Assets\¸ðµ¨¸µ\3D¸ðµ¨¸µ\½º¸ÓÇÁ\xir1w7wbwlxc-Brainy\Brainy\Brainy_D.tga

@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 0c6e1062ec5a4ea40b9cc926c88abfba
+timeCreated: 1470325680
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box02
+    100002: Box04
+    100004: Ellipse01
+    100006: Ellipse02
+    100008: Ellipse03
+    100010: Ellipse04
+    100012: Ellipse05
+    100014: Ellipse06
+    100016: Ellipse07
+    100018: Ellipse08
+    100020: Ellipse09
+    100022: Fob
+    100024: //RootNode
+    100026: geometry
+    100028: Object
+    100030: Table_genesis col.
+    100032: VRayLight05
+    100034: VRayLight10
+    100036: VRayLight11
+    100038: VRayLight12
+    100040: VRayLight13
+    100042: VRayPhysicalCamera01
+    100044: VRayPhysicalCamera01.Target
+    100046: VSep02
+    400000: Box02
+    400002: Box04
+    400004: Ellipse01
+    400006: Ellipse02
+    400008: Ellipse03
+    400010: Ellipse04
+    400012: Ellipse05
+    400014: Ellipse06
+    400016: Ellipse07
+    400018: Ellipse08
+    400020: Ellipse09
+    400022: Fob
+    400024: //RootNode
+    400026: geometry
+    400028: Object
+    400030: Table_genesis col.
+    400032: VRayLight05
+    400034: VRayLight10
+    400036: VRayLight11
+    400038: VRayLight12
+    400040: VRayLight13
+    400042: VRayPhysicalCamera01
+    400044: VRayPhysicalCamera01.Target
+    400046: VSep02
+    2300000: Box02
+    2300002: Box04
+    2300004: Ellipse01
+    2300006: Ellipse02
+    2300008: Ellipse03
+    2300010: Ellipse04
+    2300012: Ellipse05
+    2300014: Ellipse06
+    2300016: Ellipse07
+    2300018: Ellipse08
+    2300020: Ellipse09
+    2300022: Fob
+    2300024: Object
+    3300000: Box02
+    3300002: Box04
+    3300004: Ellipse01
+    3300006: Ellipse02
+    3300008: Ellipse03
+    3300010: Ellipse04
+    3300012: Ellipse05
+    3300014: Ellipse06
+    3300016: Ellipse07
+    3300018: Ellipse08
+    3300020: Ellipse09
+    3300022: Fob
+    3300024: Object
+    4300000: Fob
+    4300002: Object
+    4300004: Box02
+    4300006: Box04
+    4300008: Ellipse01
+    4300010: Ellipse02
+    4300012: Ellipse03
+    4300014: Ellipse04
+    4300016: Ellipse05
+    4300018: Ellipse06
+    4300020: Ellipse07
+    4300022: Ellipse08
+    4300024: Ellipse09
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

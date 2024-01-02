@@ -1,4 +1,7 @@
 # Virtual Figure Model Crafting with HUD
+
+![title](./main.png)
+
 [![Static Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube)](https://youtu.be/JqlxgFzMdm4)
 [![Static Badge](https://img.shields.io/badge/Github-000000?style=flat-square&logo=github)
 ](https://github.com/boosilguy/Virtual-Figure-Model-Crafting-with-HUD)

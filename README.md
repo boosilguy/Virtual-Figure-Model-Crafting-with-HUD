@@ -3,8 +3,7 @@
 ![title](./main.png)
 
 [![Static Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube)](https://youtu.be/JqlxgFzMdm4)
-[![Static Badge](https://img.shields.io/badge/Github-000000?style=flat-square&logo=github)
-](https://github.com/boosilguy/Virtual-Figure-Model-Crafting-with-HUD)
+[![Static Badge](https://img.shields.io/badge/Github-000000?style=flat-square&logo=github)](https://github.com/boosilguy/Virtual-Figure-Model-Crafting-with-HUD)
 
 *"VR 클레이 팹랩에 필요한 사용자 친화적 인터페이스"*
 
